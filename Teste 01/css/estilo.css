@@ -1,0 +1,110 @@
+body{
+    background-color: bisque;
+
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: aqua;
+
+
+}
+header{
+    background-color: #ccc;
+    width: 100%;
+    height: 130px;
+
+}
+.topo{
+    height: 110px;
+    background-color:rgb(0, 0, 0);
+    margin: auto;
+    display:block;
+
+
+}
+.topo img.logo{
+    width: 150px;
+    float: left;
+    background-color: antiquewhite;
+    margin-top: 35px;
+    border-radius: 5px;
+    margin-left: 50px;
+  
+
+}.menu {
+    padding: 0;
+    /*background-color: aqua;*/
+    width: 700px;
+    display: flex;
+    margin: 15px 0 0 100px;
+    float: left;
+    justify-content: end;
+    color: white;
+
+   
+}
+.menu li{
+    list-style: none;
+    color: white;
+    display: inline-block;
+}
+.menu a{
+    /*background-color: #ccc;*/
+    display: block;
+    text-decoration: none;
+    padding: 16px;
+    color: white;
+}
+.menu a:hover{
+
+    color: white
+
+
+}
+h1{
+    text-align: center;
+}
+img.Ariana{
+    width: 300px;
+    float: left;
+    background-color: blue;
+    display: block;
+
+}
+.container p{
+    padding-left: 10px;
+    text-align: justify;
+}
+#yoursTruly{
+    height: 400px;
+    background-color: rgb(18, 116, 202);
+}
+#MyEverything{
+    height: 400px;
+    background-color: rgb(18, 116, 202);
+
+}
+#DangerousWoman{
+    height: 400px;
+    background-color: rgb(18, 116, 202);
+
+}
+#Sweetener{
+    height: 400px;
+    background-color: rgb(18, 116, 202);
+
+}
+#ThankUNext{
+    height: 400px;
+    background-color: rgb(18, 116, 202);
+
+}
+#Positions{
+    height: 400px;
+    background-color: rgb(18, 116, 202);
+
+}
+
+
+
